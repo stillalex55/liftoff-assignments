@@ -7,11 +7,21 @@ For this assignment, you will submit a high-level outline of your project. This 
 ## Submission Instructions
 
 ### Overview
-Include overview here
+For my project I came up with the idea of a recipe app that would not only create a grocery list based on the recipes you've selected but would also allow users to create their own grocery lists that would then reccomend recipes based on those items. Therefore by ultimately reducing the amout  of waste families go through per week. Instead of having to search the interent for recipe ideas we would include an API with over 2 million recipes. 
 ### Features
-Include Features here
+User Login
+Search 
+Create List
+Home Page
 ### Technologies
-Include Technologies here
+Java 
+MySQL
+Bootstrap
+API
 
 ### What I'll Have to Learn
-Include what you will need to learn here
+Javascript
+API
+
+##Project Tracker
+https://trello.com/alexstill1
