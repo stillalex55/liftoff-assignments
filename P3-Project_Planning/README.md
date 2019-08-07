@@ -7,7 +7,7 @@ For this assignment, you'll create some initial plans for your project.
 ## Submission Instructions
 
 ### Wireframes
-I drew mine out on paper. I was having texhnical difficulties with the Mockup and Google Drawings.
+I drew my wireframes out because I was having issues with the free version of Mockup. 
 
 ### Project Tracker
 
@@ -15,4 +15,4 @@ https://trello.com/b/98OnPtjy/concert-eventbrite
 
 ### Project Repo Link
 
-(Include a link to your project on GitHub)
+https://github.com/LaunchCodeLiftoffProjects/july-2019-ryan
